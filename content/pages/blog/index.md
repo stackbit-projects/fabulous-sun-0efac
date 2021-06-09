@@ -2,7 +2,7 @@
 title: Things from around the internet that currently have my attention
 subtitle: 'News, tips and highlights'
 hide_title: false
-col_number: two
+col_number: three
 seo:
   title: Journal
   description: This is the journal page
