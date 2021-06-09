@@ -1,5 +1,5 @@
 ---
-title: Things from around the internet that currently
+title: Things from around the internet that currently have my attention
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
