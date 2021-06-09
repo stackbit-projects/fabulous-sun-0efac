@@ -1,5 +1,5 @@
 ---
-title: Thinks that Im
+title: Thingsthat Im
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
