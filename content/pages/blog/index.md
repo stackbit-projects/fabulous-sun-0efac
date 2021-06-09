@@ -1,5 +1,5 @@
 ---
-title: 'Things from '
+title: Things from around the internet that currently
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
